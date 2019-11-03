@@ -59,7 +59,7 @@ On your local machine (not inside the VM):
 Open a web browser and enter the IP address of your VM into the address bar. 
 
 - You should get the apache home page titled, 'Apache2 Ubuntu Default Page'
-
+![this works](this_apache2_works.png)
 ### Getting DVWA
 
 Back on your VM:
