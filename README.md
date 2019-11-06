@@ -101,7 +101,7 @@ Allow url includes
 - In nano, press `Control + w` key and type `allow_url_include` and change from `Off` to `On`.
 
 Restart apache2 service
-- `sudo service apache2 restart`
+- `screa`
 
 Install php-gd
  - `sudo apt-get install php5.6-gd`
@@ -167,3 +167,6 @@ Back on your local machine.
 When you're done, submit the following files in a tarball:
 - `/var/www/html/config/config.inc.php`
 - Screenshot of the DVWA welcome page after you successfully login
+
+![dvwa](dvwa.png)
+
